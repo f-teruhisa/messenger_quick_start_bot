@@ -1,3 +1,0 @@
-pts": {
-  "start": "index.js"
-}
