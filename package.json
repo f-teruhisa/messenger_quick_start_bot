@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js" // It needs to fix "scripts" property when use heroku server, default property is only erro message.
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
