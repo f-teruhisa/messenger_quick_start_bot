@@ -1,4 +1,6 @@
 # messenger_quick_start_bot
+![developers-facebook](https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/lWB96Z8sFtt.png "developers-facebook")
+<i>Image by [Facebook for Developers](https://developers.facebook.com/)</i>
 
 # Overview
 
